@@ -30,8 +30,9 @@
 
 // #3
 // let number = 10;
+// let resNumber
 
-// for (let i = 1; i < number; i++) {
+// for (let i = 1; i < 10; i++) {
 // 	number *= i
 // }
 // console.log(number)
@@ -62,14 +63,14 @@
 
 
 // #6 
-let list = {
-	name: 'Denis',
-	work: 'easycode',
-	age: 29
-}
+// let list = {
+// 	name: 'Denis',
+// 	work: 'easycode',
+// 	age: 29
+// }
 
-for (let str in list) {
-	if (typeof list[str] === 'string') {
-		console.log(list[str].toUpperCase())
-	}
-}
+// for (let str in list) {
+// 	if (typeof list[str] === 'string') {
+// 		console.log(list[str].toUpperCase())
+// 	}
+// }
